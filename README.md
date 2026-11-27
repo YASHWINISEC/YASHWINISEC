@@ -1,94 +1,96 @@
-<p align="center">
-  <img src="assets/profile-hero.svg" width="100%" alt="Yashwini M. — AI/ML Engineer, Data Science Enthusiast and Full-Stack Developer" />
-</p>
+<!-- Auto-generated from profile.json by scripts/generate_profile.py — edit profile.json to update! -->
+<div align="center">
+  <img src="assets/profile-hero.svg?v=3" alt="Yashwini M. — AI/ML Engineer · Data Science · Full-Stack" width="100%" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/YASHWINISEC">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/YASHWINISEC?tab=repositories">Repositories</a>
+  <a href="https://github.com/YASHWINISEC"><img src="https://img.shields.io/badge/GITHUB-YASHWINISEC-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yashwini-m"><img src="https://img.shields.io/badge/LINKEDIN-YASHWINI--M-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=E5B5C7" alt="LinkedIn" /></a>
+  <a href="https://github.com/YASHWINISEC?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-701A3D?style=for-the-badge&labelColor=190B12&logo=git&logoColor=E5B5C7" alt="Repositories" /></a>
+  <a href="mailto:yashwiniyash21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-YASHWINIYASH21%40GMAIL.COM-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=E5B5C7" alt="Email" /></a>
 </p>
 
-## About
+<div align="center">
+  <img src="assets/sec-01-about.svg" alt="01 About — Hello, I'm Yashwini." width="100%" />
+</div>
 
-I’m **Yashwini M.**, a B.Tech student in **Artificial Intelligence and Data Science** at **Saveetha Engineering College**, graduating in 2027.
+<br />
 
-I enjoy turning ideas into practical software — from machine learning experiments and computer-vision applications to data-driven tools and full-stack integrations. I’m especially interested in building useful AI systems and understanding how they work end to end.
+<div align="center">
+  <img src="assets/sec-02-experience.svg" alt="02 Experience &amp; Recognition" width="100%" />
+</div>
 
-## Education
+<br />
 
-**B.Tech — Artificial Intelligence and Data Science**  
-Saveetha Engineering College · Expected graduation: 2027
+<div align="center">
+  <img src="assets/sec-03-projects-header.svg" alt="03 Selected Work" width="100%" />
+</div>
 
-## Experience
+<div align="center">
+  <a href="https://github.com/YASHWINISEC/Brain-Tumor-Detection-using-Vision-Transformer">
+    <img src="assets/proj-01-brain-tumor.svg" alt="Brain Tumor Detection" width="100%" />
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/YASHWINISEC/Brain-Tumor-Detection-using-Vision-Transformer"><img src="https://img.shields.io/badge/REPOSITORY-BRAIN--TUMOR--DETECTION-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="BRAIN-TUMOR-DETECTION" /></a>
+</p>
+<div align="center">
+  <img src="assets/proj-02-health-risk.svg" alt="MediPredict AI — Health Risk" width="100%" />
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM%20DATATHON-MEDIPREDICT%20AI-451126?style=for-the-badge&labelColor=190B12&logo=python&logoColor=E5B5C7" alt="MEDIPREDICT AI" />
+</p>
+<div align="center">
+  <a href="https://github.com/YASHWINISEC/genai-image-captioning-blip">
+    <img src="assets/proj-03-genai-suite.svg" alt="BLIP Captioning &amp; PDF Q&amp;A" width="100%" />
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/YASHWINISEC/genai-image-captioning-blip"><img src="https://img.shields.io/badge/REPOSITORY-BLIP%20IMAGE%20CAPTIONING-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="BLIP IMAGE CAPTIONING" /></a>
+  <a href="https://github.com/YASHWINISEC/genai-pdf-qa-chatbot"><img src="https://img.shields.io/badge/REPOSITORY-PDF%20Q%26A%20CHATBOT-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="PDF Q&amp;A CHATBOT" /></a>
+</p>
+<div align="center">
+  <a href="https://github.com/YASHWINISEC/Implementation-of-Linear-Regression-Using-Gradient-Descent">
+    <img src="assets/proj-04-ml-fullstack.svg" alt="Logistics App &amp; Core ML" width="100%" />
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/YASHWINISEC/Implementation-of-Linear-Regression-Using-Gradient-Descent"><img src="https://img.shields.io/badge/REPOSITORY-LINEAR%20REGRESSION%20GD-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="LINEAR REGRESSION GD" /></a>
+  <a href="https://github.com/YASHWINISEC/Implementation-of-K-Means-Clustering-for-Customer-Segmentation"><img src="https://img.shields.io/badge/REPOSITORY-K--MEANS%20SEGMENTATION-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="K-MEANS SEGMENTATION" /></a>
+</p>
 
-**Marketplace Development Intern — Zoho Corporation**
+<br />
 
-Worked on Zoho Marketplace development involving Zoho Desk extensions and Zoho Bigin toppings, using the Zoho Extension Toolkit (ZET) and platform APIs.
+<div align="center">
+  <img src="assets/sec-04-skills.svg" alt="04 Technical Stack" width="100%" />
+</div>
 
-Selected work:
-- **Ticket Companion — Zoho Desk:** a right-panel Desk extension built with the Zoho Desk Extension SDK and ZET.
-- **AI Sales Copilot — Zoho Bigin:** an AI-assisted sales productivity topping developed using JavaScript, Express.js, ZET, and AI API integration.
+<br />
 
-## Selected Projects
+<div align="center">
+  <a href="https://github.com/YASHWINISEC">
+    <img src="assets/sec-05-activity.svg" alt="05 Commit Log — Live GitHub Activity" width="100%" />
+  </a>
+</div>
 
-### [Brain Tumor Detection Using Deep Learning](https://github.com/YASHWINISEC/Brain-Tumor-Detection-using-Vision-Transformer)
-A Flask-based brain MRI classification application using a **CNN built with PyTorch**. It classifies images into glioma, meningioma, no-tumor, and pituitary categories, displays a predicted class and confidence score, and provides Grad-CAM visualizations.
+<br />
 
-**Technologies:** Python · PyTorch · Torchvision · CNN · Flask · OpenCV · Grad-CAM
+<div align="center">
+  <img src="assets/sec-06-certifications.svg" alt="06 Certifications &amp; Training" width="100%" />
+</div>
 
-> Educational and research use only; this project is not a medical diagnostic tool.
+<br />
 
-### [Image Captioning Using BLIP](https://github.com/YASHWINISEC/genai-image-captioning-blip)
-A prototype image-captioning application using the pre-trained Salesforce BLIP image-captioning model, with a Gradio interface for image input and generated text output.
-
-**Technologies:** Python · PyTorch · Hugging Face Transformers · BLIP · Gradio · Pillow
-
-### [PDF Question-Answering Chatbot](https://github.com/YASHWINISEC/genai-pdf-qa-chatbot)
-A PDF question-answering prototype that extracts document text, creates a searchable vector representation, and uses a retrieval-based question-answering workflow to respond to document queries.
-
-**Technologies referenced in the project:** Python · LangChain · FAISS · Hugging Face · PyPDF2
-
-### [Linear Regression Using Gradient Descent](https://github.com/YASHWINISEC/Implementation-of-Linear-Regression-Using-Gradient-Descent)
-An implementation exercise exploring linear regression, gradient-descent updates, prediction, and loss visualization on a startup-profit dataset.
-
-**Technologies:** Python · NumPy · Pandas · Scikit-learn · Matplotlib
-
-### [Customer Segmentation Using K-Means](https://github.com/YASHWINISEC/Implementation-of-K-Means-Clustering-for-Customer-Segmentation)
-A customer-segmentation exercise applying K-Means clustering to annual income and spending-score features, with cluster and centroid visualizations.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| Programming | Python, Java, C, C++, JavaScript |
-| AI / ML | Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP, Generative AI |
-| Data Science | Pandas, NumPy, Matplotlib, Seaborn, data preprocessing, exploratory data analysis |
-| Web Development | HTML, CSS, React, Node.js, Express.js, MongoDB, Django, Flask |
-| Tools & Platforms | Git, GitHub, MySQL, VS Code, Zoho Extension Toolkit (ZET), Zoho APIs |
-
-## Currently Learning
-
-- Data Structures and Algorithms using Java
-- End-to-end machine learning workflows
-- Generative AI and practical LLM applications
-- Full-stack application development
-
-## GitHub Activity
+<div align="center">
+  <img src="assets/sec-07-connect-header.svg" alt="07 Connect" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/701A3D/YASHWINISEC" alt="GitHub contribution activity for YASHWINISEC" width="100%" />
+  <a href="mailto:yashwiniyash21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-YASHWINIYASH21%40GMAIL.COM-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=E5B5C7" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yashwini-m"><img src="https://img.shields.io/badge/LINKEDIN-YASHWINI--M-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=E5B5C7" alt="LinkedIn" /></a>
+  <a href="https://github.com/YASHWINISEC"><img src="https://img.shields.io/badge/GITHUB-YASHWINISEC-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="GitHub" /></a>
 </p>
 
-<sub>Contribution activity is loaded from a third-party chart service using public GitHub contribution data. If the chart does not load, view the <a href="https://github.com/YASHWINISEC">GitHub profile</a> directly.</sub>
-
-## Connect
-
-- **GitHub:** [@YASHWINISEC](https://github.com/YASHWINISEC)
-
----
-
-<p align="center">
-  <img src="assets/profile-footer.svg" width="100%" alt="Always curious, always learning, always building." />
-</p>
+<div align="center">
+  <img src="assets/sec-08-footer.svg" alt="Yashwini M. — Building intelligent systems, end to end." width="100%" />
+</div>
