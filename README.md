@@ -1,95 +1,94 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Yashwini profile banner"/>
+  <img src="assets/profile-hero.svg" width="100%" alt="Yashwini M. — AI/ML Engineer, Data Science Enthusiast and Full-Stack Developer" />
 </p>
 
-# Hi, I'm Yashwini M. 👋
+<p align="center">
+  <a href="https://github.com/YASHWINISEC">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/YASHWINISEC?tab=repositories">Repositories</a>
+</p>
 
-### AI/ML Engineer | Full Stack Developer | Data Science Enthusiast
+## About
 
-I'm a B.Tech student in **Artificial Intelligence and Data Science** at **Saveetha Engineering College**, graduating in **2027**.
+I’m **Yashwini M.**, a B.Tech student in **Artificial Intelligence and Data Science** at **Saveetha Engineering College**, graduating in 2027.
 
-I enjoy building practical applications that combine machine learning, data-driven insights, and full-stack development.
+I enjoy turning ideas into practical software — from machine learning experiments and computer-vision applications to data-driven tools and full-stack integrations. I’m especially interested in building useful AI systems and understanding how they work end to end.
 
-## 🎓 Education
+## Education
 
-**B.Tech – Artificial Intelligence and Data Science**
-
+**B.Tech — Artificial Intelligence and Data Science**  
 Saveetha Engineering College · Expected graduation: 2027
 
-## 💻 Areas of Interest
+## Experience
 
-- Machine Learning and Deep Learning
-- Data Science and Exploratory Data Analysis
-- Generative AI and Large Language Models
-- Full-stack Application Development
-- API Integration and Intelligent Automation
+**Marketplace Development Intern — Zoho Corporation**
 
+Worked on Zoho Marketplace development involving Zoho Desk extensions and Zoho Bigin toppings, using the Zoho Extension Toolkit (ZET) and platform APIs.
 
-## 🛠️ Tech Stack
+Selected work:
+- **Ticket Companion — Zoho Desk:** a right-panel Desk extension built with the Zoho Desk Extension SDK and ZET.
+- **AI Sales Copilot — Zoho Bigin:** an AI-assisted sales productivity topping developed using JavaScript, Express.js, ZET, and AI API integration.
 
-### 👩‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+## Selected Projects
+
+### [Brain Tumor Detection Using Deep Learning](https://github.com/YASHWINISEC/Brain-Tumor-Detection-using-Vision-Transformer)
+A Flask-based brain MRI classification application using a **CNN built with PyTorch**. It classifies images into glioma, meningioma, no-tumor, and pituitary categories, displays a predicted class and confidence score, and provides Grad-CAM visualizations.
+
+**Technologies:** Python · PyTorch · Torchvision · CNN · Flask · OpenCV · Grad-CAM
+
+> Educational and research use only; this project is not a medical diagnostic tool.
+
+### [Image Captioning Using BLIP](https://github.com/YASHWINISEC/genai-image-captioning-blip)
+A prototype image-captioning application using the pre-trained Salesforce BLIP image-captioning model, with a Gradio interface for image input and generated text output.
+
+**Technologies:** Python · PyTorch · Hugging Face Transformers · BLIP · Gradio · Pillow
+
+### [PDF Question-Answering Chatbot](https://github.com/YASHWINISEC/genai-pdf-qa-chatbot)
+A PDF question-answering prototype that extracts document text, creates a searchable vector representation, and uses a retrieval-based question-answering workflow to respond to document queries.
+
+**Technologies referenced in the project:** Python · LangChain · FAISS · Hugging Face · PyPDF2
+
+### [Linear Regression Using Gradient Descent](https://github.com/YASHWINISEC/Implementation-of-Linear-Regression-Using-Gradient-Descent)
+An implementation exercise exploring linear regression, gradient-descent updates, prediction, and loss visualization on a startup-profit dataset.
+
+**Technologies:** Python · NumPy · Pandas · Scikit-learn · Matplotlib
+
+### [Customer Segmentation Using K-Means](https://github.com/YASHWINISEC/Implementation-of-K-Means-Clustering-for-Customer-Segmentation)
+A customer-segmentation exercise applying K-Means clustering to annual income and spending-score features, with cluster and centroid visualizations.
+
+**Technologies:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, Java, C, C++, JavaScript |
+| AI / ML | Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLP, Generative AI |
+| Data Science | Pandas, NumPy, Matplotlib, Seaborn, data preprocessing, exploratory data analysis |
+| Web Development | HTML, CSS, React, Node.js, Express.js, MongoDB, Django, Flask |
+| Tools & Platforms | Git, GitHub, MySQL, VS Code, Zoho Extension Toolkit (ZET), Zoho APIs |
+
+## Currently Learning
+
+- Data Structures and Algorithms using Java
+- End-to-end machine learning workflows
+- Generative AI and practical LLM applications
+- Full-stack application development
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/701A3D/YASHWINISEC" alt="GitHub contribution activity for YASHWINISEC" width="100%" />
 </p>
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+<sub>Contribution activity is loaded from a third-party chart service using public GitHub contribution data. If the chart does not load, view the <a href="https://github.com/YASHWINISEC">GitHub profile</a> directly.</sub>
 
-### 📊 Data Science
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+## Connect
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Database
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-
-## 💼 Experience
-
-**Marketplace Development Intern – Zoho Corporation**
-
-Worked on Zoho Marketplace development, including Zoho Desk extensions and Zoho Bigin toppings using ZET and platform APIs.
-
-## 🌱 Currently Learning
-
-- Data Structures and Algorithms
-- End-to-end Machine Learning
-- Full-stack Development
-- Generative AI
-
-## 🤝 Connect
-
-- GitHub: https://github.com/YASHWINISEC
+- **GitHub:** [@YASHWINISEC](https://github.com/YASHWINISEC)
 
 ---
 
-*Always curious, always learning, and always building.*
+<p align="center">
+  <img src="assets/profile-footer.svg" width="100%" alt="Always curious, always learning, always building." />
+</p>
