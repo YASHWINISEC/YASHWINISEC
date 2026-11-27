@@ -1,0 +1,353 @@
+{
+  "identity": {
+    "name": "Yashwini M.",
+    "first_name": "Yashwini",
+    "username": "YASHWINISEC",
+    "role_line": "AI/ML Engineer · Data Science · Full-Stack",
+    "tagline": "Building intelligent systems, end to end.",
+    "location": "Tamil Nadu, India",
+    "email": "yashwiniyash21@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yashwini-m",
+    "github": "https://github.com/YASHWINISEC",
+    "primary_language": "Python",
+    "primary_stack_note": "PyTorch · TensorFlow · Scikit-learn",
+    "currently_exploring_title": "GenAI & Systems",
+    "currently_exploring_note": "LLMs · RAG · Full-Stack ML Serving"
+  },
+  "education": {
+    "degree": "B.Tech AI & DS",
+    "institution": "Saveetha Engineering College",
+    "graduation_year": "2027",
+    "cgpa": "8.02"
+  },
+  "about_terminal": [
+    {
+      "key": "name",
+      "value": "Yashwini M. (@YASHWINISEC)"
+    },
+    {
+      "key": "education",
+      "value": "B.Tech AI & Data Science · Saveetha Eng. College (2027)"
+    },
+    {
+      "key": "location",
+      "value": "Tamil Nadu, India"
+    },
+    {
+      "key": "experience",
+      "value": "Zoho Corporation (Marketplace) · Arjun Vision Tech"
+    },
+    {
+      "key": "mission",
+      "value": "End-to-end ML pipelines, Computer Vision & Full-Stack apps"
+    }
+  ],
+  "experience": {
+    "primary": {
+      "company": "Zoho Corporation",
+      "watermark": "ZOHO",
+      "period": "JUL – AUG 2026",
+      "role": "Marketplace Development Intern",
+      "highlights": [
+        {
+          "label": "Zoho Desk — Ticket Companion:",
+          "detail": "Right-panel extension via Desk SDK, Sigma & ZET CLI."
+        },
+        {
+          "label": "Zoho Bigin — AI Sales Copilot:",
+          "detail": "AI sales assistant modules with Express.js & AI APIs."
+        }
+      ],
+      "tags": [
+        "ZET CLI",
+        "Sigma",
+        "Express.js",
+        "Zoho APIs"
+      ]
+    },
+    "secondary": {
+      "company": "Arjun Vision Tech",
+      "watermark": "AI·DS",
+      "period": "JAN – FEB 2025",
+      "role": "AI & Data Science Intern",
+      "summary_line1": "Applied Python data preprocessing & EDA on",
+      "summary_line2": "real-world datasets; built & evaluated ML models.",
+      "tags": [
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ]
+    },
+    "credentials_strip": [
+      {
+        "label": "ACADEMICS",
+        "big": "8.02",
+        "unit": "CGPA",
+        "sub": "Saveetha Engineering College"
+      },
+      {
+        "label": "DEGREE PROGRAM",
+        "big": "B.Tech AI & DS",
+        "unit": "",
+        "sub": "Expected Graduation · 2027"
+      },
+      {
+        "label": "ENTERPRISE SAAS",
+        "big": "Zoho Ecosystem",
+        "unit": "",
+        "sub": "Desk Extension & Bigin Topping"
+      },
+      {
+        "label": "CORE DISCIPLINES",
+        "big": "AI · CV · MERN",
+        "unit": "",
+        "sub": "End-to-End ML & Web Systems"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "proj-01-brain-tumor",
+      "eyebrow": "01 · DEEP LEARNING · MEDICAL IMAGING",
+      "title": "Brain Tumor Detection",
+      "subtitle": "Hybrid Autoencoders + Vision Transformers (ViT)",
+      "desc1": "Engineered a hybrid deep learning pipeline for automated MRI brain tumor detection,",
+      "desc2": "combining representation learning with data augmentation and hyperparameter tuning.",
+      "pills": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Vision Transformers",
+        "Autoencoders"
+      ],
+      "flow": [
+        {
+          "step": "01 · MRI PREPROCESSING",
+          "note": "Image normalization & augmentation"
+        },
+        {
+          "step": "02 · HYBRID ENCODER",
+          "note": "Autoencoder features + ViT attention"
+        },
+        {
+          "step": "03 · DIAGNOSTIC HEAD",
+          "note": "Tuned tumor classification output"
+        }
+      ],
+      "accent_end": "#4E122B",
+      "links": [
+        {
+          "label": "REPOSITORY",
+          "text": "BRAIN-TUMOR-DETECTION",
+          "url": "https://github.com/YASHWINISEC/Brain-Tumor-Detection-using-Vision-Transformer"
+        }
+      ]
+    },
+    {
+      "id": "proj-02-health-risk",
+      "eyebrow": "02 · PREDICTIVE HEALTH · IBM DATATHON",
+      "title": "MediPredict AI — Health Risk",
+      "subtitle": "Disease Prediction & Regional Health Analytics",
+      "desc1": "Supervised Random Forest classification pipeline with binary symptom encoding and",
+      "desc2": "a Flask web interface combining symptom, district health, climate, and access datasets.",
+      "pills": [
+        "Python",
+        "Scikit-learn",
+        "Flask",
+        "Pandas",
+        "NumPy",
+        "Seaborn"
+      ],
+      "flow": [
+        {
+          "step": "01 · MULTI-DATASET ETL",
+          "note": "Symptoms, district & climate CSVs"
+        },
+        {
+          "step": "02 · RANDOM FOREST ML",
+          "note": "Class-balanced training & evaluation"
+        },
+        {
+          "step": "03 · FLASK WEB APP",
+          "note": "Interactive prediction & risk insights"
+        }
+      ],
+      "accent_end": "#431025",
+      "links": [
+        {
+          "label": "IBM DATATHON",
+          "text": "MEDIPREDICT AI",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "proj-03-genai-suite",
+      "eyebrow": "03 · GENERATIVE AI · VISION & NLP",
+      "title": "BLIP Captioning & PDF Q&A",
+      "subtitle": "Vision-Language Modeling & Document Intelligence",
+      "desc1": "Built two applied GenAI systems: natural-language image captioning powered by BLIP",
+      "desc2": "and an interactive PDF Question-Answering chatbot for conversational document retrieval.",
+      "pills": [
+        "Python",
+        "PyTorch",
+        "Transformers",
+        "BLIP",
+        "NLP",
+        "LLMs"
+      ],
+      "flow": [
+        {
+          "step": "01 · VISION-LANGUAGE",
+          "note": "BLIP pretrained image-to-text pipeline"
+        },
+        {
+          "step": "02 · PDF INGESTION",
+          "note": "Document text extraction & chunking"
+        },
+        {
+          "step": "03 · LLM Q&A ENGINE",
+          "note": "Context-grounded conversational answers"
+        }
+      ],
+      "accent_end": "#4C132A",
+      "links": [
+        {
+          "label": "REPOSITORY",
+          "text": "BLIP IMAGE CAPTIONING",
+          "url": "https://github.com/YASHWINISEC/genai-image-captioning-blip"
+        },
+        {
+          "label": "REPOSITORY",
+          "text": "PDF Q&A CHATBOT",
+          "url": "https://github.com/YASHWINISEC/genai-pdf-qa-chatbot"
+        }
+      ]
+    },
+    {
+      "id": "proj-04-ml-fullstack",
+      "eyebrow": "04 · FULL-STACK MERN & ML FOUNDATIONS",
+      "title": "Logistics App & Core ML",
+      "subtitle": "MERN Platform · Gradient Descent · K-Means Clustering",
+      "desc1": "Architected a full-stack MERN Logistics app with JWT auth & role-based tracking,",
+      "desc2": "alongside from-scratch Linear Regression (Gradient Descent) and K-Means Segmentation.",
+      "pills": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Scikit-learn",
+        "NumPy"
+      ],
+      "flow": [
+        {
+          "step": "01 · MERN LOGISTICS",
+          "note": "JWT auth, RBAC & live shipment views"
+        },
+        {
+          "step": "02 · GRADIENT DESCENT",
+          "note": "From-scratch linear optimization"
+        },
+        {
+          "step": "03 · K-MEANS CLUSTERING",
+          "note": "Unsupervised customer segmentation"
+        }
+      ],
+      "accent_end": "#3F0F23",
+      "links": [
+        {
+          "label": "REPOSITORY",
+          "text": "LINEAR REGRESSION GD",
+          "url": "https://github.com/YASHWINISEC/Implementation-of-Linear-Regression-Using-Gradient-Descent"
+        },
+        {
+          "label": "REPOSITORY",
+          "text": "K-MEANS SEGMENTATION",
+          "url": "https://github.com/YASHWINISEC/Implementation-of-K-Means-Clustering-for-Customer-Segmentation"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "tag": "01  LANGUAGES",
+      "headline": "Python · Java",
+      "sub": "C · JavaScript",
+      "footer": "DSA · OBJECT-ORIENTED PROGRAMMING",
+      "highlight": false
+    },
+    {
+      "tag": "02  AI & MACHINE LEARNING",
+      "headline": "PyTorch · TensorFlow",
+      "sub": "Scikit-learn · OpenCV · Vision Transformers",
+      "footer": "DEEP LEARNING · CV · NLP · GENAI · LLMS",
+      "highlight": true
+    },
+    {
+      "tag": "03  DATA SCIENCE",
+      "headline": "Pandas · NumPy",
+      "sub": "Matplotlib · Seaborn",
+      "footer": "EDA · PREPROCESSING · FEATURE ENGINEERING",
+      "highlight": false
+    },
+    {
+      "tag": "04  BACKEND & APIS",
+      "headline": "Node.js · Express.js",
+      "sub": "Django · Flask · REST APIs",
+      "footer": "JWT AUTH · ROLE-BASED ACCESS CONTROL",
+      "highlight": false
+    },
+    {
+      "tag": "05  FRONTEND & DATA",
+      "headline": "React.js · MongoDB",
+      "sub": "HTML5 · CSS3 · MySQL",
+      "footer": "RESPONSIVE UI · RELATIONAL & DOCUMENT DB",
+      "highlight": false
+    },
+    {
+      "tag": "06  TOOLS & ZOHO",
+      "headline": "Git · GitHub · ZET CLI",
+      "sub": "Zoho APIs · Sigma · Linux · VS Code",
+      "footer": "FIGMA · MARKETPLACE EXTENSION PACKAGING",
+      "highlight": true
+    }
+  ],
+  "certifications": [
+    {
+      "category": "NLP",
+      "title": "Applied NLP",
+      "line1": "Tokenization, sentiment",
+      "line2": "& text classification",
+      "highlight": false
+    },
+    {
+      "category": "GENERATIVE AI",
+      "title": "GenAI & LLMs",
+      "line1": "LLM architecture &",
+      "line2": "prompt engineering",
+      "highlight": true
+    },
+    {
+      "category": "CUDA & PARALLEL",
+      "title": "GPU Programming",
+      "line1": "Parallel computing with",
+      "line2": "CUDA architectures",
+      "highlight": false
+    },
+    {
+      "category": "ANALYTICS",
+      "title": "Power BI & AI",
+      "line1": "AI-powered dashboards",
+      "line2": "& KPI visualization",
+      "highlight": false
+    },
+    {
+      "category": "HACKATHON",
+      "title": "IBM & RAP",
+      "line1": "Rapid Acceleration",
+      "line2": "Partners & IBM event",
+      "highlight": true
+    }
+  ]
+}
