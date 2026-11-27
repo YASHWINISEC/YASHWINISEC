@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-labelledby="ym-s2-title ym-s2-desc">
+  <title id="ym-s2-title">02 Experience &amp; Recognition — Proof, on the record.</title>
+  <desc id="ym-s2-desc">Verified internships and academic credentials.</desc>
+  <defs>
+    <linearGradient id="ym-s2-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10070C" />
+      <stop offset="50%" stop-color="#190B12" />
+      <stop offset="100%" stop-color="#360D1E" />
+    </linearGradient>
+    <linearGradient id="ym-s2-card-p" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#290B18" />
+      <stop offset="100%" stop-color="#4A1229">
+        <animate attributeName="stop-color" values="#4A1229;#5E1734;#4A1229" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <linearGradient id="ym-s2-card-s" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F0913" />
+      <stop offset="100%" stop-color="#3A0F21" />
+    </linearGradient>
+    <linearGradient id="ym-s2-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#701A3D" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="ym-s2-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#C77B9B" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.85" />
+    </linearGradient>
+    <clipPath id="ym-s2-clip"><rect x="1" y="1" width="1198" height="408" rx="16" /></clipPath>
+  </defs>
+
+  <g clip-path="url(#ym-s2-clip)">
+    <rect width="1200" height="410" fill="url(#ym-s2-bg)" />
+
+    <g transform="translate(42, 42)">
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" fill="#C77B9B" letter-spacing="2">02  EXPERIENCE &amp; RECOGNITION</text>
+      <text x="0" y="34" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="30" font-weight="700" fill="#F8F0F3">Proof, on the record.</text>
+      <text x="1116" y="28" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#C77B9B" fill-opacity="0.8" letter-spacing="1.4">INTERNSHIPS · ACADEMICS · ENGINEERING</text>
+      <rect x="0" y="48" width="1116" height="1.5" fill="url(#ym-s2-line)" />
+    </g>
+
+    <g transform="translate(42, 110)">
+      <rect x="0" y="0" width="636" height="176" rx="14" fill="url(#ym-s2-card-p)" stroke="#C77B9B" stroke-opacity="0.55" stroke-width="1.2" />
+      <text x="616" y="102" text-anchor="end" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="86" font-weight="700" fill="#E5B5C7" fill-opacity="0.09" letter-spacing="4">ZOHO</text>
+      <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#E5B5C7" letter-spacing="1.6">ZOHO CORPORATION · JUL – AUG 2026</text>
+      <text x="24" y="64" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="25" font-weight="700" fill="#F8F0F3">Marketplace Development Intern</text>
+      <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.8" fill="#F8F0F3" fill-opacity="0.94"><tspan font-weight="700" fill="#E5B5C7">• Zoho Desk — Ticket Companion:</tspan> Right-panel extension via Desk SDK, Sigma &amp; ZET CLI.</text>
+      <text x="24" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.8" fill="#F8F0F3" fill-opacity="0.94"><tspan font-weight="700" fill="#E5B5C7">• Zoho Bigin — AI Sales Copilot:</tspan> AI sales assistant modules with Express.js &amp; AI APIs.</text>
+      <g transform="translate(24, 138)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10"><rect x="0" y="0" width="78" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#C77B9B" stroke-opacity="0.45" /><text x="39.0" y="14.5" text-anchor="middle" fill="#E5B5C7">ZET CLI</text><rect x="86" y="0" width="66" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#C77B9B" stroke-opacity="0.45" /><text x="119.0" y="14.5" text-anchor="middle" fill="#E5B5C7">Sigma</text><rect x="160" y="0" width="102" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#C77B9B" stroke-opacity="0.45" /><text x="211.0" y="14.5" text-anchor="middle" fill="#E5B5C7">Express.js</text><rect x="270" y="0" width="94" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#C77B9B" stroke-opacity="0.45" /><text x="317.0" y="14.5" text-anchor="middle" fill="#E5B5C7">Zoho APIs</text></g>
+    </g>
+
+    <g transform="translate(696, 110)">
+      <rect x="0" y="0" width="462" height="176" rx="14" fill="url(#ym-s2-card-s)" stroke="#701A3D" stroke-width="1.2" />
+      <text x="442" y="100" text-anchor="end" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="76" font-weight="700" fill="#E5B5C7" fill-opacity="0.08">AI·DS</text>
+      <text x="24" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#C77B9B" letter-spacing="1.6">ARJUN VISION TECH · JAN – FEB 2025</text>
+      <text x="24" y="64" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="24" font-weight="700" fill="#F8F0F3">AI &amp; Data Science Intern</text>
+      <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.8" fill="#E5B5C7" fill-opacity="0.92">Applied Python data preprocessing &amp; EDA on</text>
+      <text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.8" fill="#E5B5C7" fill-opacity="0.92">real-world datasets; built &amp; evaluated ML models.</text>
+      <g transform="translate(24, 138)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10"><rect x="0" y="0" width="118" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#701A3D" stroke-opacity="0.85" /><text x="59.0" y="14.5" text-anchor="middle" fill="#E5B5C7">Scikit-learn</text><rect x="126" y="0" width="70" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#701A3D" stroke-opacity="0.85" /><text x="161.0" y="14.5" text-anchor="middle" fill="#E5B5C7">Pandas</text><rect x="204" y="0" width="66" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#701A3D" stroke-opacity="0.85" /><text x="237.0" y="14.5" text-anchor="middle" fill="#E5B5C7">NumPy</text><rect x="278" y="0" width="102" height="22" rx="6" fill="#190B12" fill-opacity="0.7" stroke="#701A3D" stroke-opacity="0.85" /><text x="329.0" y="14.5" text-anchor="middle" fill="#E5B5C7">Matplotlib</text></g>
+    </g>
+
+    <g transform="translate(42, 304)">
+      <line x1="0" y1="0" x2="1116" y2="0" stroke="#451126" stroke-width="1" />
+      <g transform="translate(0, 18)">
+        <text x="0" y="10" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#C77B9B" letter-spacing="1.4">ACADEMICS</text>
+        <text x="0" y="42" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="26" font-weight="700" fill="#F8F0F3">8.02 <tspan font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" fill="#E5B5C7">CGPA</tspan></text>
+        <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#C77B9B">Saveetha Engineering College</text>
+      </g>
+      <line x1="286" y1="14" x2="286" y2="82" stroke="#451126" stroke-width="1" />
+      <g transform="translate(308, 18)">
+        <text x="0" y="10" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#C77B9B" letter-spacing="1.4">DEGREE PROGRAM</text>
+        <text x="0" y="42" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="26" font-weight="700" fill="#F8F0F3">B.Tech AI &amp; DS</text>
+        <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#C77B9B">Expected Graduation · 2027</text>
+      </g>
+      <line x1="590" y1="14" x2="590" y2="82" stroke="#451126" stroke-width="1" />
+      <g transform="translate(612, 18)">
+        <text x="0" y="10" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#C77B9B" letter-spacing="1.4">ENTERPRISE SAAS</text>
+        <text x="0" y="42" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="26" font-weight="700" fill="#F8F0F3">Zoho Ecosystem</text>
+        <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#C77B9B">Desk Extension &amp; Bigin Topping</text>
+      </g>
+      <line x1="872" y1="14" x2="872" y2="82" stroke="#451126" stroke-width="1" />
+      <g transform="translate(894, 18)">
+        <text x="0" y="10" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#C77B9B" letter-spacing="1.4">CORE DISCIPLINES</text>
+        <text x="0" y="42" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="26" font-weight="700" fill="#F8F0F3">AI · CV · MERN</text>
+        <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" fill="#C77B9B">End-to-End ML &amp; Web Systems</text>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="408" rx="16" fill="none" stroke="url(#ym-s2-border)" stroke-width="1.3" />
+  </g>
+</svg>

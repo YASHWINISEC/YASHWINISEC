@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 248" width="1200" height="248" role="img" aria-label="BLIP Captioning &amp; PDF Q&amp;A — Vision-Language Modeling &amp; Document Intelligence">
+  <defs>
+    <linearGradient id="ym-p3-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12070D" />
+      <stop offset="55%" stop-color="#1D0913" />
+      <stop offset="100%" stop-color="#4C132A" />
+    </linearGradient>
+    <linearGradient id="ym-p3-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#701A3D" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="ym-p3-sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0" />
+      <stop offset="50%" stop-color="#E5B5C7" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#701A3D" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="ym-p3-clip"><rect x="1" y="1" width="1198" height="246" rx="14" /></clipPath>
+  </defs>
+
+  <g clip-path="url(#ym-p3-clip)">
+    <rect width="1200" height="248" fill="url(#ym-p3-bg)" />
+    <line x1="20" y1="2" x2="1180" y2="2" stroke="url(#ym-p3-sweep)" stroke-width="2" stroke-dasharray="180 980" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="1160" to="0" dur="8s" repeatCount="indefinite" />
+    </line>
+
+    <g transform="translate(42, 40)">
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" fill="#C77B9B" letter-spacing="1.8">03 · GENERATIVE AI · VISION &amp; NLP</text>
+      <text x="0" y="42" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="31" font-weight="700" fill="#F8F0F3">BLIP Captioning &amp; PDF Q&amp;A</text>
+      <text x="0" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#E5B5C7">Vision-Language Modeling &amp; Document Intelligence</text>
+      <text x="0" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.88">Built two applied GenAI systems: natural-language image captioning powered by BLIP</text>
+      <text x="0" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#F8F0F3" fill-opacity="0.88">and an interactive PDF Question-Answering chatbot for conversational document retrieval.</text>
+      <g transform="translate(0, 154)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5"><rect x="0" y="0" width="70" height="24" rx="6" fill="#16080F" stroke="#701A3D" stroke-width="1" /><text x="35.0" y="15.5" text-anchor="middle" fill="#E5B5C7">Python</text><rect x="78" y="0" width="78" height="24" rx="6" fill="#16080F" stroke="#701A3D" stroke-width="1" /><text x="117.0" y="15.5" text-anchor="middle" fill="#E5B5C7">PyTorch</text><rect x="164" y="0" width="118" height="24" rx="6" fill="#16080F" stroke="#701A3D" stroke-width="1" /><text x="223.0" y="15.5" text-anchor="middle" fill="#E5B5C7">Transformers</text><rect x="290" y="0" width="68" height="24" rx="6" fill="#16080F" stroke="#701A3D" stroke-width="1" /><text x="324.0" y="15.5" text-anchor="middle" fill="#E5B5C7">BLIP</text><rect x="366" y="0" width="68" height="24" rx="6" fill="#16080F" stroke="#701A3D" stroke-width="1" /><text x="400.0" y="15.5" text-anchor="middle" fill="#E5B5C7">NLP</text><rect x="442" y="0" width="68" height="24" rx="6" fill="#16080F" stroke="#701A3D" stroke-width="1" /><text x="476.0" y="15.5" text-anchor="middle" fill="#E5B5C7">LLMs</text></g>
+    </g>
+
+    <g transform="translate(838, 16)">
+      <text x="0" y="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#C77B9B" letter-spacing="1.5">ARCHITECTURE FLOW</text>
+      <rect x="0" y="28" width="316" height="42" rx="8" fill="#14070D" fill-opacity="0.88" stroke="#701A3D" stroke-width="1" /><circle cx="16" cy="49" r="3.5" fill="#E5B5C7" /><text x="30" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#F8F0F3">01 · VISION-LANGUAGE</text><text x="30" y="61" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" fill="#C77B9B">BLIP pretrained image-to-text pipeline</text><line x1="158" y1="70" x2="158" y2="82" stroke="#C77B9B" stroke-width="1.2" stroke-opacity="0.7" /><rect x="0" y="82" width="316" height="42" rx="8" fill="#14070D" fill-opacity="0.88" stroke="#701A3D" stroke-width="1" /><circle cx="16" cy="103" r="3.5" fill="#E5B5C7" /><text x="30" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#F8F0F3">02 · PDF INGESTION</text><text x="30" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" fill="#C77B9B">Document text extraction &amp; chunking</text><line x1="158" y1="124" x2="158" y2="136" stroke="#C77B9B" stroke-width="1.2" stroke-opacity="0.7" /><rect x="0" y="136" width="316" height="42" rx="8" fill="#14070D" fill-opacity="0.88" stroke="#701A3D" stroke-width="1" /><circle cx="16" cy="157" r="3.5" fill="#E5B5C7" /><text x="30" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" fill="#F8F0F3">03 · LLM Q&amp;A ENGINE</text><text x="30" y="169" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" fill="#C77B9B">Context-grounded conversational answers</text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="246" rx="14" fill="none" stroke="url(#ym-p3-border)" stroke-width="1.3" />
+  </g>
+</svg>
