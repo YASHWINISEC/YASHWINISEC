@@ -1,0 +1,51 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#190813"/>
+      <stop offset="55%" stop-color="#4B102A"/>
+      <stop offset="100%" stop-color="#210B19"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#A52A55"/>
+      <stop offset="50%" stop-color="#F0A6BE"/>
+      <stop offset="100%" stop-color="#7D2345"/>
+      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="350" rx="18" fill="url(#bg)"/>
+  <path d="M0 280 L1200 30 M0 330 L1200 80" stroke="#A34C69" opacity=".12" stroke-width="1"/>
+  <circle cx="1040" cy="70" r="180" fill="#9C2853" opacity=".12"/>
+  <circle cx="170" cy="330" r="190" fill="#D46A91" opacity=".08"/>
+
+  <g fill="none" stroke="url(#glow)" opacity=".55">
+    <path d="M30 35 H1170 V315 H30 Z" stroke-width="1.5"/>
+    <path d="M850 0 V350 M900 0 V350 M950 0 V350" opacity=".2"/>
+  </g>
+
+  <text x="600" y="105" text-anchor="middle"
+        fill="#E7A3B9" font-family="Arial" font-size="17"
+        letter-spacing="6">HELLO, WORLD! I'M</text>
+
+  <text x="600" y="185" text-anchor="middle"
+        fill="#FFF1F5" font-family="Arial" font-size="65"
+        font-weight="bold" letter-spacing="4">YASHWINI M.</text>
+
+  <path d="M330 205 H870" stroke="#D47A9B" stroke-width="2"/>
+
+  <text x="600" y="250" text-anchor="middle"
+        fill="#F2C7D5" font-family="Arial" font-size="19"
+        letter-spacing="2">AI/ML  •  FULL STACK  •  DATA SCIENCE</text>
+
+  <text x="600" y="292" text-anchor="middle"
+        fill="#C994A9" font-family="Arial" font-size="14"
+        letter-spacing="3">BUILDING IDEAS INTO INTELLIGENT SOLUTIONS</text>
+
+  <circle cx="180" cy="100" r="4" fill="#F0A6BE">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="260" r="4" fill="#F0A6BE">
+    <animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
